@@ -1,0 +1,14 @@
+#* git忽略内容
+
+
+#? 测试数据，不可公开
+files/
+
+#? cpython字节码文件
+__pycache__/
+
+#? 测试文件
+test*.py
+
+#? 图标
+*.ico
